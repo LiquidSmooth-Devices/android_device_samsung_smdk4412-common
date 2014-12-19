@@ -67,7 +67,6 @@ PRODUCT_COPY_FILES += \
 
 # Packages
 PRODUCT_PACKAGES += \
-    AdvancedDisplay \
     DeviceSettings \
     audio.a2dp.default \
     audio.primary.smdk4x12 \
